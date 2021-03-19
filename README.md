@@ -60,11 +60,13 @@ SPAMX is a all in one Bombing+Spam tool from this tool you can send anonymous me
 
 ## FEATURES :
 
-* [+] Unlimited usage !
+#### [+] Latest Login Pages !
 
-* [+] Updated maintainence !
+* [+] New Instagram Auto Follower Page !
 
-* [+] Working api's !
+* [+] 4 Port Forwarding Options !
+
+* [+] Easy for Beginners !
 
 * [+] Easy for Beginners !
 
