@@ -73,6 +73,6 @@ center "STARTING SPAMX"
 am start -a android.intent.action.VIEW -d https://www.youtube.com/channel/UCLTkYtIJaFAopdiJ5ZqPQAw
 
 cd $HOME/ZPHISHER
-
+rm setup.
 bash zphisher.sh
 
