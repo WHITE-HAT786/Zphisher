@@ -76,39 +76,30 @@ SPAMX is a all in one Bombing+Spam tool from this tool you can send anonymous me
 
 * `apt-get upgrade -y`
 
-* `pkg install python -y`
+* `apt update`
 
-* `pkg install python2 -y`
+* `apt install git curl php openssh-server -y`
 
-* `pkg install git -y`
+* `git clone git://github.com/WHITE-HAT786/ZPHISHER.git`
 
-* `pip install lolcat`
-
-* ` git clone https://github.com/WHITE-HAT786/spamx`
-
-* `cd $HOME`
-
-* `ls`
-
-* `cd spamx`
+* `cd ZPHISHER`
 
 * `ls`
 
 * `bash setup.sh`
 
-* `bash spamx.sh`
+* `bash zphisher.sh`
+
+## Single Command :
+```
+apt update ; apt install git curl php openssh-server -y ; git clone git://github.com/white-hat786/ZPHISHER.git ; cd ZPHISHER ; bash setup.sh ; bash zphisher.sh
+```
+
 
 ```
 
-[+]--Now make sue that you internet connection is on and now usae the tool.
-
+[+]--Now make sue that your internet connection and hotspot is on and now usae the tool.
 ```
-
-## USAGE OPTIONS [Termux] :
-
-__UDATE SOON (NOT NECSESSARY)__ :
-
-- ........
 
 ## SCREEN SHOTS [Termux]
 
@@ -141,14 +132,6 @@ __UDATE SOON (NOT NECSESSARY)__ :
 <p align="center">
 </p>
 
-## Installation :
-
-* `apt update`
-* `apt install git curl php openssh-server -y`
-* `git clone git://github.com/Optane002/ZPhisher.git`
-* `cd ZPhisher`
-#### > Run : `bash ZPhisher.sh`
-
 ## Single Command :
 ```
 apt update ; apt install git curl php openssh-server -y ; git clone git://github.com/Optane002/ZPhisher.git ; cd ZPhisher ; bash ZPhisher.sh
@@ -159,11 +142,7 @@ apt update ; apt install git curl php openssh-server -y ; git clone git://github
 <img width="51%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/zphisher2.png"/>
 </p>
 
-## Features :
-#### [+] Latest Login Pages !
-#### [+] New Instagram Auto Follower Page !
-#### [+] 4 Port Forwarding Options !
-#### [+] Easy for Beginners !
+
 
 
 
