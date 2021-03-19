@@ -32,11 +32,7 @@ apt update ; apt install git curl php openssh-server -y ; git clone git://github
 #### [+] 4 Port Forwarding Options !
 #### [+] Easy for Beginners !
 
-## Credits :
-#### > TheLinuxChoice (https://github.com/thelinuxchoice)
-#### > DarksecDevelopers (https://github.com/DarksecDevelopers)
-#### > UndeadSec (https://github.com/UndeadSec)
-#### > Equinockx (https://github.com/MoisesTapia)
+
 
 ## Tunelling Options :
 #### > Localhost (127.0.0.1)
