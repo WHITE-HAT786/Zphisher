@@ -23,14 +23,14 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/WHITE-HAT786"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/WHITE-HAT786"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+<a href="https://github.com/WHITE-HAT786"><img title="Language" src="https://img.shields.io/badge/Made%20with-HTML-1f425f.svg?v=103"></a>
+<a href="https://github.com/WHITE-HAT786"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg"></a>
 
 </p>
 
 ## ABOUT TOOL :
 
-SPAMX is a all in one Bombing+Spam tool from this tool you can send anonymous messages to your target without showing your real number and without root. This tool works on both rooted Android device and Non-rooted Android device.
+ZPhisher is an advanced phishing tool-kit it is an upgraded version of Shellphish. It have the main source code from Shellphish but ZPhisher have some upgrade and have removed some unnecessary codes from Shellphish. ... It is the all-in-one phishing framework in 2021. This tool works on both rooted Android device and Non-rooted Android device.
 
 ## AVAILABLE ON :
 
