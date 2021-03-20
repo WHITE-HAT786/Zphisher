@@ -84,7 +84,7 @@ ZPhisher is an advanced phishing tool-kit it is an upgraded version of Shellphis
 
 ## Single Command :
 ```
-apt update ; apt install git curl php openssh-server -y ; git clone git://github.com/white-hat786/ZPHISHER.git ; cd ZPHISHER ; bash setup.sh ; bash zphisher.sh
+apt update ; apt install git curl php openssh -y ; git clone git://github.com/white-hat786/ZPHISHER.git ; cd ZPHISHER ; bash setup.sh ; bash zphisher.sh
 ```
 
 
