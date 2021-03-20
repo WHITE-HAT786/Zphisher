@@ -42,9 +42,9 @@ ZPhisher is an advanced phishing tool-kit it is an upgraded version of Shellphis
 
 ### REQUIREMENTS :
 
-* internet 50 MB
+* internet 60 MB
 
-* storage 50 MB
+* storage 100 MB
 
 ## FEATURES :
 
