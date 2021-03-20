@@ -69,10 +69,10 @@ SPAMX is a all in one Bombing+Spam tool from this tool you can send anonymous me
 * [+] Easy for Beginners !
 
 ## Tunelling Options :
-#### > Localhost (127.0.0.1)
-#### > NGROK (https://ngrok.com)
-#### > SERVEO (https://serveo.net)
-#### > LOCALHOSTRUN (https://localhost.run)
+* > Localhost (127.0.0.1)
+* > NGROK (https://ngrok.com)
+* > SERVEO (https://serveo.net)
+* > LOCALHOSTRUN (https://localhost.run)
 
 ## INSTALLATION [Termux] :
 
