@@ -54,7 +54,6 @@ ZPhisher is an advanced phishing tool-kit it is an upgraded version of Shellphis
 
 * [+] Easy for Beginners !
 
-* [+] Easy for Beginners !
 
 ## Tunelling Options :
 * > Localhost (127.0.0.1)
