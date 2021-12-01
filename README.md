@@ -56,11 +56,9 @@ ZPhisher is an advanced phishing tool-kit it is an upgraded version of Shellphis
 
 
 ## Tunelling Options :
-* > Localhost (127.0.0.1)
-* > NGROK (https://ngrok.com)
-* > SERVEO (https://serveo.net)
-* > LOCALHOSTRUN (https://localhost.run)
-
+* > Localhost
+* > NGROK 
+* > Cloudflared
 ## INSTALLATION [Termux] :
 
 * `apt-get update -y`
