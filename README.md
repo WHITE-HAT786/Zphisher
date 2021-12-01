@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/WHITE-HAT786/zphisher"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-zphisher-green.svg"></a>
-<a href="https://github.com/WHITE-HAT786/zphisher"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://github.com/WHITE-HAT786/zphisher"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
 <a href="https://github.com/WHITE-HAT786/zphisher"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 
 </p>
@@ -69,7 +69,7 @@ ZPhisher is an advanced phishing tool-kit it is an upgraded version of Shellphis
 
 * `apt install git curl php openssh -y`
 
-* `git clone git://github.com/WHITE-HAT786/ZPHISHER.git`
+* `git clone git://github.com/WHITE-HAT786/Zphisher.git`
 
 * `cd ZPHISHER`
 
@@ -81,7 +81,7 @@ ZPhisher is an advanced phishing tool-kit it is an upgraded version of Shellphis
 
 ## Single Command :
 ```
-apt update ; apt install git curl php openssh -y ; git clone https://github.com/white-hat786/ZPHISHER.git ; cd ZPHISHER ; bash setup.sh ; bash zphisher.sh
+apt update ; apt install git curl php openssh -y ; git clone https://github.com/white-hat786/Zphisher.git ; cd Zphisher ; bash setup.sh ; bash zphisher.sh
 ```
 
 
