@@ -92,9 +92,12 @@ ZPhisher is an advanced phishing tool-kit it is an upgraded version of Shellphis
 * `bash zphisher.sh`
 
 
+## Run on Docker :
 
-
-
+```
+$ docker pull htrtech/zphisher
+$ docker run --rm -it htrtech/zphisher
+```
 ## Single Command :
 ```
 apt update ; apt install git curl php openssh -y ; git clone https://github.com/white-hat786/Zphisher.git ; cd Zphisher ; bash setup.sh ; bash zphisher.sh
