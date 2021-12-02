@@ -1,5 +1,5 @@
 #!/bin/bash
-echo `[!] Installing the requirements`
+echo "[!] Installing the requirements"
 
 apt update
 apt install curl -y
