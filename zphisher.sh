@@ -79,7 +79,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : 2.0
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by WHITE-HAT786 (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by WHITE-HAT786${WHITE}
 	EOF
 }
 
@@ -675,3 +675,4 @@ dependencies
 install_ngrok
 install_cloudflared
 main_menu
+#enjoy the tool
