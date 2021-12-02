@@ -64,15 +64,18 @@ ZPhisher is an advanced phishing tool-kit it is an upgraded version of Shellphis
 [+] Docker support (checkout `docker-legacy` branch)
 
 [+] Multiple tunneling options
-  - Localhost
-  - Ngrok (With or without hotspot)
-  - Cloudflared (Alternative of Ngrok)
+  
 
 
 ## Tunelling Options :
+
+
+
+
+
 * > Localhost
-* > NGROK 
-* > Cloudflared
+* > NGROK (With or without hotspot)
+* > Cloudflared (Alternative of Ngrok)
 ## INSTALLATION [Termux] :
 
 * `apt-get update -y`
