@@ -35,10 +35,17 @@ ZPhisher is an advanced phishing tool-kit it is an upgraded version of Shellphis
 ## AVAILABLE ON :
 
 * Termux
+* Kali Linux
+* BlackArch Linux
+* Ubuntu
+* Kali Nethunter
+* Termux
+* Parrot OS
 
 ### TESTED ON :
 
 * Termux
+* Kali Linux
 
 ### REQUIREMENTS :
 
@@ -48,11 +55,18 @@ ZPhisher is an advanced phishing tool-kit it is an upgraded version of Shellphis
 
 ## FEATURES :
 
-* [+] New Instagram Auto Follower Page !
+[+] Latest and updated login pages.
 
-* [+] 4 Port Forwarding Options !
+[+] Mask URL support 
 
-* [+] Easy for Beginners !
+[+] Beginners friendly
+
+[+] Docker support (checkout `docker-legacy` branch)
+
+[+] Multiple tunneling options
+  - Localhost
+  - Ngrok (With or without hotspot)
+  - Cloudflared (Alternative of Ngrok)
 
 
 ## Tunelling Options :
@@ -77,16 +91,16 @@ ZPhisher is an advanced phishing tool-kit it is an upgraded version of Shellphis
 
 * `bash zphisher.sh`
 
+
+
+
+
 ## Single Command :
 ```
 apt update ; apt install git curl php openssh -y ; git clone https://github.com/white-hat786/Zphisher.git ; cd Zphisher ; bash setup.sh ; bash zphisher.sh
 ```
 
 
-```
-
-[+]--Now make sue that your internet connection and hotspot is on and now usae the tool.
-```
 
 ## SCREEN SHOTS [Termux]
 <br>
