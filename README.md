@@ -108,13 +108,7 @@ apt update ; apt install git curl php openssh -y ; git clone https://github.com/
 
 
 
-## SCREEN SHOTS [Termux]
-<br>
 
-<p align="center">
-<img img width="49%" src="https://i.ibb.co/MNrhMMS/IMG-20210320-073958.jpg" alt="IMG-20210320-073958" border="0">
-<img img width="49%"  src="https://i.ibb.co/zXgtZyD/IMG-20210320-074009.jpg" alt="IMG-20210320-074009" border="0">
-</p>
 
 
 ## CONNECT WITH US :
